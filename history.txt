@@ -1,0 +1,1031 @@
+    1  pwd
+    2  ls
+    3  clear
+    4  cd Development
+    5  mkdir Projects
+    6  ls
+    7  cd Projects
+    8  flutter create basic
+    9  cd ..
+   10  ls
+   11  mkdir sdks
+   12  ls
+   13  flutter doctor
+   14  cd 
+   15  flutter doctor
+   16  vim $HOME/.zshrc
+   17  cd Development/sdks
+   18  pwd
+   19  flutter doctor
+   20  flutter pub cache repair
+   21  vim $HOME/.zshrc
+   22  flutter doctor
+   23  clear
+   24  flutter doctor
+   25  cd Development
+   26  ls
+   27  cd sdks
+   28  ls
+   29  cd ..
+   30  ls 
+   31  cd Projects
+   32  git clone https://github.com/OwethuSotomela/Resume.git
+   33  ls
+   34  cd Resume
+   35  code .
+   36  git add .
+   37  git status
+   38  git commit -m "Added CV download"
+   39  git status
+   40  git config --global --edit
+   41  git status
+   42  git add .
+   43  git status
+   44  git pull
+   45  git status
+   46  git add img/portfolio/Greeting.png
+   47  git status
+   48  git add /img/portfolio/Greeting.png
+   49  git add img/portfolio/Greeting.png
+   50  git add img/portfolio/SettingsBill.png
+   51  git commit -m "Two images added"
+   52  git push
+   53  clear
+   54  cd Development
+   55  brew install --cask postman
+   56  flutter doctor
+   57  cd
+   58  flutter doctor
+   59  clear
+   60  cd Development
+   61  ls
+   62  brew install --cask android-studio
+   63  xcode-select --install
+   64  Software Update
+   65  cd
+   66  flutter doctor
+   67  clear
+   68  cd ..
+   69  ls
+   70  clear
+   71  npx create-react-app my-app
+   72  cd Development
+   73  npm i -g npx
+   74  sudo npm i -g npx
+   75  node -v
+   76  sudo apt install nodejs
+   77  install nodejs
+   78  sudo apt-get install npm
+   79  node -v
+   80  sudo npm i -g npx
+   81  2. vim $HOME/.zshrc
+   82  cd
+   83  vim $HOME/.zshrc
+   84  sudo npm i -g npx
+   85  cd Dev
+   86  pwd
+   87  cd Development
+   88  sudo npm i -g npx
+   89  npm install -g npm@9.1.1
+   90  vim $HOME/.zshrc
+   91  cd
+   92  brew config
+   93  flutter doctor
+   94  sudo gem install cocoapods
+   95  clear
+   96  sudo gem install cocoapods
+   97  clear
+   98  sudo gem install cocoapods
+   99  clear
+  100  flutter doctor
+  101  `flutter config --android-sdk`
+  102  'flutter -h'
+  103  `flutter config --android-sdk -h`
+  104  flutter doctor
+  105  clear
+  106  flutter doctor
+  107  clear
+  108  flutter doctor
+  109  clear
+  110  flutter doctor
+  111  clear
+  112  flutter doctor
+  113  sudo gem install cocoapods
+  114  clear
+  115  sudo gem install cocoapods
+  116  clear
+  117  ls
+  118  cd Projects
+  119  ls
+  120  flutter create first_2022
+  121  cd first_2022
+  122  flutter run
+  123  flutter doctor --android-licenses
+  124  flutter config --enable-android
+  125  flutter config --android-sdk {path}
+  126  flutter config --android-sdk /path/to/android/sdk
+  127  flutter doctor --android-licenses
+  128  flutter doctor
+  129  clear
+  130  flutter doctor
+  131  flutter config --android-sdk /Users/owethusotomela/Library/Android/sdk
+  132  flutter doctor
+  133  cd Development/Projects
+  134  ls
+  135  cd first_2022
+  136  code .
+  137  cd Development
+  138  sudo gem install cocoapods
+  139  clear
+  140  brew install cocoapods 
+  141  cd
+  142  flutter doctor
+  143  sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer\nsudo xcodebuild -runFirstLaunch\n
+  144  open -a Simulator\n
+  145  flutter pub outdated
+  146  clear
+  147  flutter run
+  148  flutter create
+  149  clear
+  150  code .
+  151  flutter run
+  152  clear
+  153  flutter run
+  154  flutter clean
+  155  flutter pub get
+  156  flutter clean
+  157  flutter pub get
+  158  clear
+  159  flutter run
+  160  flutter clean
+  161  flutter pub get
+  162  flutter run
+  163  clear
+  164  flutter doctor
+  165  clear
+  166  flutter doctor
+  167  flutter doctor --android-licenses
+  168  flutter doctor
+  169  clear
+  170  node -v 
+  171  node
+  172  cd Development
+  173  mkdir nodejs
+  174  cd nodejs
+  175  code .
+  176  touch app.js
+  177  node app.js
+  178  clear
+  179  node app.js
+  180  console.log(___dirname)
+  181  node app.js
+  182  clear
+  183  node app.js
+  184  clear
+  185  node app.js
+  186  touch names.js
+  187  node names.js
+  188  clear
+  189  node names.js
+  190  clear
+  191  node names.js
+  192  node app.js
+  193  clear
+  194  node app.js
+  195  clear
+  196  code .
+  197  touch func.js
+  198  node app.js
+  199  clear
+  200  node app.js
+  201  clear
+  202  node app.js
+  203  clear
+  204  node app.js
+  205  clear
+  206  node app.js
+  207  clear
+  208  code .
+  209  node app.js
+  210  clear
+  211  node app.js
+  212  mkdir content
+  213  cd content
+  214  touch first.txt
+  215  cd ..
+  216  clear
+  217  node app.js
+  218  cd
+  219  cd Development
+  220  cd Projects
+  221  clear
+  222  npx create-next-app@latest
+  223  ls
+  224  cd ..
+  225  npm install -g npm@9.1.2
+  226  clear
+  227  cd Projects
+  228  npm install -g npm@9.1.2
+  229  cd Projects
+  230  clear
+  231  cd airbnbmernstack
+  232  code .
+  233  git init
+  234  git add .
+  235  git commit -m "Initial commit"
+  236  git branch -M main
+  237  git remote add origin https://github.com/OwethuSotomela/airbnbmernstack.git
+  238  git push -u origin main
+  239  git add .
+  240  git commit -m "Initial commit"
+  241  git push -u origin main
+  242  npm install -D tailwindcss postcss autoprefixer
+  243  npm install -g npm@9.1.2
+  244  cd ..
+  245  clear
+  246  cd
+  247  2. vim $HOME/.zshrc
+  248  vim $HOME/.zshrc
+  249  cd Projects/airbnbmernstack
+  250  clear
+  251  npx tailwindcss init -p
+  252  pwd
+  253  cd Development/Projects
+  254  git clone https://github.com/OwethuSotomela/OwethuSotomela.git
+  255  code .
+  256  ls
+  257  cd OwethuSotomela
+  258  code .
+  259  git pull
+  260  git add .
+  261  git commit -m "Fixed a typo"
+  262  git push
+  263  git pull
+  264  npm run dev
+  265  mkdir components
+  266  cd components
+  267  touch Navbar.js
+  268  cd ..
+  269  npm run dev
+  270  mkdir models
+  271  cd ..
+  272  cd OwethuSotomela
+  273  code .
+  274  git pull
+  275  git pull 
+  276  cd
+  277  nvm –version
+  278  nvm --version
+  279  node --version
+  280  cd Development
+  281  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
+  282  cd
+  283  node --version
+  284  nvm --version
+  285  cd Development
+  286  nvm --version
+  287  cd
+  288  ls
+  289  clear
+  290  ls
+  291  source ~/.bash_profile
+  292  source ~/.profile
+  293  ls -a 
+  294  which nvm
+  295  ls -a | grep .nvm
+  296  nano .zshrc
+  297  nvm --version
+  298  source ~/.nvm/nvm.sh
+  299  nvm --version
+  300  node --version
+  301  nvm install 12.10.0
+  302  nvm --version
+  303  npm -v
+  304  clear
+  305  cd Development
+  306  cd Projects
+  307  git clone https://github.com/OwethuSotomela/movies-app.git
+  308  clra
+  309  clear
+  310  ls
+  311  clear
+  312  cd 
+  313  cd Development
+  314  brew tap mongodb/brew
+  315  brew install mongodb-community
+  316  clear
+  317  clea
+  318  clear
+  319  npm -v
+  320  cd 
+  321  ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
+  322  brew tap mongodb/brew
+  323  brew install mongodb-community@4.4
+  324  brew install mongodb-community
+  325  ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
+  326  clear
+  327  brew update
+  328  brew install mongodb
+  329  brew tap mongodb/brew
+  330  mkdir -p /data/db
+  331  brew install mongodb-community
+  332  clear
+  333  cd movies-app
+  334  ls
+  335  cd client
+  336  npm run dev
+  337  clear
+  338  cd Development
+  339  npm install
+  340  cd
+  341  npm install
+  342  npm run dev
+  343  npm install
+  344  npm run dev
+  345  cd Development/Projects/movies-app
+  346  code .
+  347  nodemon
+  348  cd 
+  349  cd Development
+  350  npm install -g nodemon --save-dev 
+  351  nodemon
+  352  clear
+  353  nodemon
+  354  cd Projects/movies-app
+  355  npm install -g nodemon --save-dev 
+  356  nodemon
+  357  npm install -g nodemon
+  358  nodemon
+  359  cd
+  360  clear
+  361  ps -ef | grep mongod
+  362  ps -ef | grep mongod | grep -v grep | wc -l | tr -d ' '
+  363  brew tap mongodb/brew
+  364  brew update
+  365  brew install mongodb-community@6.0
+  366  clear
+  367  brew install mongodb-community@6.0
+  368  brew services start mongodb-community@6.0
+  369  ps aux | grep -v grep | grep mongod
+  370  mongosh
+  371  cleat
+  372  clear
+  373  cd Development/Projects
+  374  ls
+  375  mkdir learn
+  376  cd learn
+  377  touch app.js index.html
+  378  code .
+  379  touch styles.css
+  380  code .
+  381  clear
+  382  ls
+  383  clear
+  384  pwd
+  385  npm run dev
+  386  ls
+  387  npm run dev
+  388  npm cache clean\n
+  389  npm cache verify
+  390  npm run dev
+  391  clear
+  392  npm run dev
+  393  sudo npm install -g npm
+  394  npm run dev
+  395  clear
+  396  npm i react
+  397  clear
+  398  npm i react
+  399  npm install
+  400  clear
+  401  npm i react
+  402  clear
+  403  npm install
+  404  npm --v
+  405  node --v
+  406  node -version
+  407  clear
+  408  flutter pub get
+  409  pwd
+  410  flutter pub get
+  411  clear
+  412  code .
+  413  clear
+  414  cd Development/Projects/learn
+  415  code .
+  416  npm install
+  417  clear
+  418  npm install
+  419  node -v
+  420  cd
+  421  vim $HOME/.zshrc
+  422  npm install
+  423  clear
+  424  cd 
+  425  cd Development/Projects/Resume
+  426  code .
+  427  git status
+  428  git add .
+  429  git commit -m "Update 2023"
+  430  git push
+  431  git add .
+  432  git commit -m "Update 2023"
+  433  git push
+  434  cd Development/Projects/Resume
+  435  code .
+  436  git add .
+  437  git commit -m "Fixed Errors"
+  438  git push
+  439  clear
+  440  node --version
+  441  cd Development
+  442  cd Projects
+  443  ls
+  444  mkdir UMUZI
+  445  cd UMUZI
+  446  git clone https://github.com/Umuzi-org/Owethu-Sotomela-778-contentitem-.git
+  447  ls
+  448  cd Owethu-Sotomela-778-contentitem-
+  449  code .
+  450  ls
+  451  code .
+  452  touch important.md
+  453  ls
+  454  code .
+  455  cd ..
+  456  ls
+  457  git clone https://github.com/Umuzi-org/Owethu-Sotomela-429-bootcamp-writing-assignment-markdown.git
+  458  ls
+  459  cd Owethu-Sotomela-429-bootcamp-writing-assignment-markdown
+  460  code .
+  461  touch 1.md
+  462  clear
+  463  ls
+  464  git add .
+  465  git commit -m "Added 1.md file"
+  466  git push
+  467  git add .
+  468  git commit -m "Added my personal history"
+  469  git push
+  470  touch 2.md
+  471  git add . 
+  472  git commit -m "Added 2.md file"
+  473  git push
+  474  git add .
+  475  git commit -m "Updated 1.md file"
+  476  git push
+  477  git add .
+  478  git commit -m "Modified 1.md file"
+  479  git push
+  480  git status
+  481  git add .
+  482  git commit -m "Modified 1.md file"
+  483  git push
+  484  git add .
+  485  git commit -m "Added content on 2.md file"
+  486  git push
+  487  touch 3.md
+  488  git add .
+  489  git commit -m "Added 3.md file"
+  490  git push
+  491  git add .
+  492  git commit -m "Added content on 3.md file"
+  493  touch 4.md
+  494  git add .
+  495  git commit -m "Added 4.md file"
+  496  git push
+  497  git add .
+  498  git commit -m "Added content on 4.md file"
+  499  git push
+  500  touch 5.md
+  501  git add .
+  502  git commit -m "Added 5.md file"
+  503  git push
+  504  git add .
+  505  git commit -m "Added content on 5.md file"
+  506  git push
+  507  git add .
+  508  git commit -m "Added content on 5.md file"
+  509  git push
+  510  touch 6.md
+  511  git add .
+  512  git commit -m "Added 6.md file"
+  513  git push
+  514  git add .
+  515  git commit -m "Added content on 6.md file"
+  516  git push
+  517  touch 7.md
+  518  git add .
+  519  git commit -m "Added 7.md file"
+  520  git push
+  521  git add .
+  522  git commit -m "Added content on 7.md file"
+  523  git push
+  524  touch 8.md
+  525  git add .
+  526  git commit -m "Added 8.md file"
+  527  git push
+  528  git add .
+  529  git commit -m "Added content on 8.md file"
+  530  git push
+  531  git add .
+  532  git commit -m "Added content on 8.md file"
+  533  git push
+  534  touch 9.md
+  535  git add .
+  536  git commit -m "Added 9.md file"
+  537  git push
+  538  git add .
+  539  git commit -m "Added content on 9.md file"
+  540  git push
+  541  touch 10.md
+  542  git add .
+  543  git commit -m "Added content on 10.md file"
+  544  git push
+  545  touch 11.md
+  546  git add .
+  547  git commit -m "Added content on 11.md file"
+  548  git push
+  549  git add .
+  550  git commit -m "Added content on 11.md file"
+  551  git push
+  552  git add .
+  553  git commit -m "Modified 1.md file"
+  554  git push
+  555  git commit -am "Modified 1.md file"
+  556  git push
+  557  git commit -am "Modified 1.md file"
+  558  git push
+  559  git add .
+  560  git commit "Changed font size on heading"
+  561  git commit -m "Changed font size on headings"
+  562  git push
+  563  clear
+  564  cd ..
+  565  ls
+  566  cd Owethu-Sotomela-429-bootcamp-writing-assignment-markdown
+  567  code .
+  568  git add .
+  569  git commit -m "Modified 11.md file"
+  570  git push
+  571  cd ..
+  572  ls
+  573  git clone https://github.com/Umuzi-org/Owethu-Sotomela-756-contentitem-javascript.git
+  574  ls
+  575  cd Owethu-Sotomela-756-contentitem-javascript
+  576  code .
+  577  cd ..
+  578  cd Owethu-Sotomela-429-bootcamp-writing-assignment-markdown
+  579  code .
+  580  git add .
+  581  git commit -m "Modified file names"
+  582  git push
+  583  cd ..
+  584  cd Owethu-Sotomela-756-contentitem-javascript
+  585  clear
+  586  touch task1.js
+  587  git add .
+  588  git commit -m "Added task1.js file & a function"
+  589  git push
+  590  node task1.js
+  591  cd ..
+  592  git clone https://github.com/Umuzi-org/Owethu-Sotomela-764-contentitem-javascript.git
+  593  ls
+  594  cd Owethu-Sotomela-764-contentitem-javascript
+  595  code .
+  596  touch task2.js
+  597  node task2.js
+  598  ls
+  599  git add .
+  600  git commit -m "Added task2.js file and the code"
+  601  git push
+  602  ls
+  603  node task2.js
+  604  cd ..
+  605  cd Owethu-Sotomela-756-contentitem-javascript
+  606  code .
+  607  node task1.js
+  608  node task2
+  609  node task1.js
+  610  cd ..
+  611  cd Owethu-Sotomela-764-contentitem-javascript
+  612  ls
+  613  node task2.js
+  614  node task2
+  615  git add .
+  616  git commit -m "Task 2 specs"
+  617  git push
+  618  node task2
+  619  cd ..
+  620  clear
+  621  ls
+  622  git clone https://github.com/Umuzi-org/Owethu-Sotomela-760-contentitem-javascript.git
+  623  ls
+  624  cd Owethu-Sotomela-760-contentitem-javascript
+  625  code .
+  626  touch task3.js
+  627  node task3.js
+  628  git add .
+  629  git commit -m "Added task3.js file and a code"
+  630  git push
+  631  git add .
+  632  git commit -m "Added task3.js file and a code"
+  633  git push
+  634  git add .
+  635  git commit -m "Added task3.js file and a code"
+  636  git push
+  637  cd ..
+  638  ls
+  639  git clone https://github.com/Umuzi-org/Owethu-Sotomela-759-contentitem-javascript.git
+  640  cd Owethu-Sotomela-759-contentitem-javascript
+  641  code .
+  642  touch task4.js
+  643  node task4.js
+  644  clear
+  645  node task4.js
+  646  clear
+  647  node task4.js
+  648  git add .
+  649  git commit -m "Added task4.js and it's code"
+  650  git add .
+  651  git commit -m "Added task4.js and it's code"
+  652  git push
+  653  cd ..
+  654  ls
+  655  cd clone https://github.com/Umuzi-org/Owethu-Sotomela-763-contentitem-javascript.git
+  656  git clone https://github.com/Umuzi-org/Owethu-Sotomela-763-contentitem-javascript.git
+  657  ls
+  658  clear
+  659  ls
+  660  cd Owethu-Sotomela-763-contentitem-javascript
+  661  code .
+  662  touch task5.js
+  663  node task5.js
+  664  clear
+  665  code .
+  666  node task5.js
+  667  git add .
+  668  git commit -m "Added task5.js file and code"
+  669  git push
+  670  cd ..
+  671  ls
+  672  git clone https://github.com/Umuzi-org/Owethu-Sotomela-758-contentitem-javascript.git
+  673  cd Owethu-Sotomela-758-contentitem-javascript
+  674  code .
+  675  touch task6.js
+  676  node task6.js
+  677  cd ..
+  678  cd Owethu-Sotomela-763-contentitem-javascript
+  679  code .
+  680  node task6.js
+  681  git add .
+  682  git commit -m "Added task6.js file and some code"
+  683  git push
+  684  cd ..
+  685  ls
+  686  git clone https://github.com/Umuzi-org/Owethu-Sotomela-765-contentitem-javascript.git
+  687  cd Owethu-Sotomela-765-contentitem-javascript
+  688  code .
+  689  touch task7.js
+  690  node task7.js
+  691  git add .
+  692  git commit -m "Added task7.js file and added some code in it"
+  693  git push
+  694  cd ..
+  695  ls
+  696  git clone https://github.com/Umuzi-org/Owethu-Sotomela-762-contentitem-javascript.git
+  697  cd Owethu-Sotomela-762-contentitem-javascript
+  698  code .
+  699  touch task8.js
+  700  node task8.js
+  701  git add .
+  702  git commit -m "Added task8.js file and some code"
+  703  git push
+  704  cd ..
+  705  ls
+  706  clear
+  707  ls
+  708  git clone https://github.com/Umuzi-org/Owethu-Sotomela-761-contentitem-javascript.git
+  709  cd Owethu-Sotomela-761-contentitem-javascript
+  710  code .
+  711  touch task9.js
+  712  cd ..
+  713  cd Owethu-Sotomela-764-contentitem-javascript
+  714  code .
+  715  node task2.js
+  716  git add .
+  717  git commit -m "Fixed errors"
+  718  git push
+  719  cd ..
+  720  cd Owethu-Sotomela-763-contentitem-javascript
+  721  code .
+  722  node task5.js
+  723  git add .
+  724  git commit -m "Fixed errors"
+  725  git push
+  726  cd ..
+  727  cd Owethu-Sotomela-758-contentitem-javascript
+  728  code .
+  729  node task5.js
+  730  node task6.js
+  731  git add .
+  732  git commit -m "Fixed errors"
+  733  git push
+  734  cd ..
+  735  cd Owethu-Sotomela-762-contentitem-javascript
+  736  code .
+  737  node task8.js
+  738  git add .
+  739  git commit -m "Fixed errors"
+  740  git push
+  741  code .
+  742  node task8.js
+  743  git commit -am "Fixed errors"
+  744  git push
+  745  git commit -am "Fixed errors"
+  746  git push
+  747  node task9.js
+  748  git add .
+  749  git commit -m "Added task9.js file and added some code"
+  750  git push
+  751  node task8.js
+  752  clear
+  753  cd ..
+  754  git clone https://github.com/Umuzi-org/Owethu-Sotomela-754-contentitem-javascript.git
+  755  ls
+  756  cd Owethu-Sotomela-754-contentitem-javascript
+  757  code .
+  758  touch task10.js
+  759  cd ..
+  760  cd Owethu-Sotomela-761-contentitem-javascript
+  761  code .
+  762  node task10.js
+  763  git add .
+  764  git commit -m "Added task10.js file and some code"
+  765  git push
+  766  node task10.js
+  767  git add .
+  768  node task10.js
+  769  git add .
+  770  git commit -m "Added regex"
+  771  git push
+  772  node task10.js
+  773  cd ..
+  774  cd Owethu-Sotomela-762-contentitem-javascript
+  775  code .
+  776  node task8.js
+  777  clear
+  778  node task8.js
+  779  git add.
+  780  git add .
+  781  git commit -m "Logic changed to accormodate 0s and 1s"
+  782  git push
+  783  node task10.js
+  784  clear
+  785  cd
+  786  ls /
+  787  ls
+  788  ls /
+  789  ls
+  790  ls /
+  791  ls -lrh
+  792  pwd
+  793  cd ..
+  794  ls
+  795  cd owethusotomela
+  796  ls
+  797  cd Development
+  798  ls
+  799  cd Projects
+  800  ls
+  801  cd learn
+  802  cd ..
+  803  cd learn
+  804  cd ..
+  805  ls
+  806  cd ..\\n..
+  807  cd owethusotomela
+  808  ls
+  809  cd Development/Projects
+  810  cd learn
+  811  cd ..\..
+  812  cd ....
+  813  pwd
+  814  cd Development/Projects/learn
+  815  cd ..
+  816  cd learn
+  817  cd ....
+  818  pwd
+  819  cd Development/Projects/learn
+  820  cd home
+  821  cd ../..
+  822  cd ../
+  823  cd Development/Projects/learn
+  824  ls /
+  825  cd home
+  826  cd
+  827  pwd
+  828  cd Development/Projects/learn
+  829  man
+  830  man ls
+  831  cd ..
+  832  ls
+  833  cd learn
+  834  ls
+  835  cd ..
+  836  rmdir -r learn
+  837  rmdir --r learn
+  838  rmdir -p learn
+  839  rm -r learn
+  840  ls
+  841  cd
+  842  git --version
+  843* git diff
+  844  cd Development/Projects
+  845  ls
+  846  cd OwethuSotomela
+  847  code .
+  848* git pull
+  849* git add .
+  850* git commit -m "An update"
+  851* git push
+  852* git pull
+  853* git status
+  854* node task10.js
+  855  ls /
+  856* node task10.js
+  857* git add .
+  858* git commit -m "Fixed errors"
+  859* git push
+  860  cd ..
+  861  ls
+  862  cd UMUZI
+  863  ls
+  864  git clone https://github.com/Umuzi-org/Owethu-Sotomela-606-tilde-project-tutorial-how-repo-projects-work-.git
+  865  cd Owethu-Sotomela-606-tilde-project-tutorial-how-repo-projects-work-
+  866  code .
+  867* touch important.md
+  868* git add .
+  869* git commit -m "Added important.md file"
+  870* git push
+  871* git branch owethu-repo-project-patch-1
+  872* git branch
+  873* git checkhout
+  874* git checkout
+  875* ls
+  876* git checkout owethu-repo-project-patch-1
+  877* git diff main
+  878* git branch main
+  879* git checkout main
+  880* git checkout owethu-repo-project-patch-1
+  881* git checkout main
+  882* rm important.md
+  883* git branch
+  884* git chechout owethu-repo-projects-patch-1
+  885* git checkout owethu-repo-projects-patch-1
+  886* git checkout owethu-repo-project-patch-1
+  887* touch important.md
+  888* git add .
+  889* git commit -m "Added important.md file and why not to add reviewers"
+  890* git push
+  891* git push --set-upstream origin owethu-repo-project-patch-1
+  892* git checkout main
+  893* git am "Adding a new file and reasons for adding reviewers"
+  894* git add .
+  895* git commit -m "Adding important.md file and reasons for adding reviewers"
+  896* git push --set-upstream origin owethu-repo-project-patch-1
+  897* git checkout main
+  898  cd ..
+  899  clear
+  900  ls
+  901  mkdir git-basic-exercises
+  902  cd git-basic-exercises
+  903  code .
+  904  ls -a
+  905* git init
+  906  ls -a
+  907* git status
+  908* touch README.md
+  909  ls -a
+  910* git status
+  911  git log
+  912* git add .
+  913* git status
+  914* git reset
+  915* git status
+  916* git add .
+  917* git commit -m "initial commit"
+  918  git log
+  919  nano README.md
+  920* cd ..
+  921* cd git-basic-exercises
+  922* clear
+  923* cat README.md
+  924* git status
+  925  cat README.md
+  926* git status
+  927* git add .
+  928* git commit -m "second commit"
+  929* git add .
+  930* git commit -m "third commit"
+  931  git log
+  932* git checkout a8b0fc5875503b2cdbae02de65d958a8af1c0aac
+  933* cat README.md
+  934* git checkout main
+  935* git branch -m master main
+  936* git branch
+  937* git checkout master
+  938* git checkout main
+  939* cat README.md
+  940* git branch -b milkshake-flavours
+  941* git branch 
+  942* git branch milkshake-flavours
+  943* git branch
+  944  git log
+  945* git branch a8b0fc5875503b2cdbae02de65d958a8af1c0aac
+  946* git branch
+  947  cd ..
+  948  cd 
+  949  cd Development/Projects
+  950  ls
+  951  cd UMUZI/git-basic-exercises
+  952  code .
+  953* git branch
+  954* git checkout a8b0fc5875503b2cdbae02de65d958a8af1c0aac
+  955  cd ..
+  956  clear
+  957  mkdir git-basic-exercises
+  958  cd git-basic-exercises
+  959  code .
+  960  ls -a
+  961* git branch
+  962* git init
+  963  ls -a
+  964* git branch -m master main
+  965* git branch
+  966  git branch -m master main
+  967* git push -u origin main
+  968* git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+  969* git branch -m master main
+  970* clear
+  971  git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+  972  git branch -m master main
+  973  git branch
+  974* git status
+  975* git branch -m master main
+  976  git status
+  977  ls -a
+  978* touch README.md
+  979  ls -a
+  980  git log
+  981* git add
+  982* git add .
+  983* git status
+  984* git commit -m "initial commit"
+  985  git log
+  986  clear
+  987  git log
+  988* git branch -m master main
+  989* git push -u origin main
+  990* git branch
+  991* clear
+  992  cd ..
+  993  cd git-basic-exercises
+  994  git branch
+  995  clear
+  996  nano README.md
+  997  cat README.md
+  998  git status
+  999* git add .
+ 1000* git commit -m "second commit"
+ 1001* git add .
+ 1002* git commit -m "third commit"
+ 1003  git log
+ 1004* git checkout ff075af456c981d28330577ed750c9bce72da4ba
+ 1005  cat README.md
+ 1006* git checkout main
+ 1007* git branch
+ 1008* cat README.md
+ 1009* git branch milkshake-flavours
+ 1010* git branch
+ 1011* git checkout 
+ 1012* git checkout milkshake-flavours
+ 1013  cd ..
+ 1014  cd git-basic-exercises
+ 1015  clear
+ 1016  nano milkshakes.md
+ 1017* git status
+ 1018* git add .
+ 1019* git commit -m "added initial flavours"
+ 1020* git checkout main
+ 1021  cd ..
+ 1022  cd git-basic-exercises
+ 1023* git branch history
+ 1024* git branch
+ 1025  git log
+ 1026* git branch
+ 1027* git checkout history
+ 1028* git log
+ 1029  cd ..
+ 1030  cd git-basic-exercises
+ 1031  git log
